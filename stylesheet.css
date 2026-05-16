@@ -1,0 +1,14 @@
+@charset "utf-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-size: 100px;
+    color: #ffffff;
+    background-color: #000000;
+    text-align: center;
+}
+
